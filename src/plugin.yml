@@ -1,0 +1,8 @@
+name: NickSystem
+version: 2.0
+author: Lvcki_Luca
+main: de.luca.nicksystem.Main
+
+commands:
+  nick:
+  nicklist:
